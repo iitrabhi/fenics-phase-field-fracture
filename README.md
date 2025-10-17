@@ -95,10 +95,8 @@ Once the container starts, copy the Jupyter Notebook URL shown in the terminal a
 
 ## 🤝 Collaborations
 
-I am always open to research and development collaborations in computational mechanics and multi-physics simulations.  
-Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/abhiguptaio/)** to discuss potential opportunities or joint projects.
+I am always open to research and development collaborations in computational mechanics and multi-physics simulations. Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/abhiguptaio/)** to discuss potential opportunities or joint projects.
 
 ## ⚖️ License
 
-This project is released under the **MIT License**.  
-If you use this repository or build upon it in your research, please cite the relevant papers listed above.
+This project is released under the **MIT License**. If you use this repository or build upon it in your research, please cite the relevant papers listed above.
